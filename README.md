@@ -30,6 +30,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![output](/Screenshot%20from%202022-12-25%2022-15-58.png)
+![Screenshot from 2023-01-23 23-12-03](https://user-images.githubusercontent.com/118749665/214111085-f3fb2f44-dd7f-403e-95bd-2cab5c6b55ae.png)
+
 ## Result:
 Thus the circulation of n variables are successfully executed
